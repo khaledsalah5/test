@@ -1,0 +1,2 @@
+# Testing dependency for the CI/CD demo
+pytest>=8.0,<9.0
