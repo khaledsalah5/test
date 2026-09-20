@@ -1,4 +1,4 @@
-from src.transform import clean_country_name
+from transform import clean_country_name
 
 
 def test_clean_country_name():
